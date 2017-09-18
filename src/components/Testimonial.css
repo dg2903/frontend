@@ -1,0 +1,40 @@
+#testimonial-div img {
+  border-radius: 50%;
+  width: 100px;
+}
+
+#testimonial-div {
+  font-size: 20px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+
+#testimonial-item img{
+  width: 55px;
+}
+
+#testImgSection{
+  float: left;
+  margin-right: 25px;
+}
+
+#testimonial-item h5{
+  font-weight: bold;
+}
+
+#testNameSection {
+  height: 100%;
+  line-height: 100%;
+}
+
+#testComment {
+  width: 96%;
+  border: 1px solid #ebebeb;
+  border-radius: 8px;
+  padding: 25px;
+  margin-bottom: 35px;
+  font-size: 15px;
+  background-color: #fafafa;
+  line-height: 180%;
+}

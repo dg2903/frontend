@@ -1,0 +1,49 @@
+.menu-enter {
+  opacity: 0;
+  -webkit-transition: opacity 1s ease;
+}
+
+.menu-enter.menu-enter-active {
+  opacity: auto;
+  opacity: 1;
+}
+
+.menu-leave {
+  opacity: 1;
+  -webkit-transition: opacity 1s ease;
+}
+
+.menu-leave.menu-leave-active {
+  opacity: 0;
+}
+
+ul {
+  width: 70%;
+  z-index: 100;
+}
+#mainMenu {
+  position: relative;
+  margin-top:20px;
+  z-index: 2;
+  background: white;
+  width: 250px;
+  border: 5px solid white;
+  border-radius: 8px;
+  box-shadow: -1px 6px 26px 20px rgba(0,0,0,0.75);
+}
+
+#thiscontainer {
+  position: relative;
+  width: 100px;
+  height: 100px;
+}
+#notMenu{
+  position: relative;
+  z-index: 0;
+}
+#menu{
+  position: relative;
+  width: 100px;
+  height: 50px;
+  z-index: 1;
+}

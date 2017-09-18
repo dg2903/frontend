@@ -1,0 +1,43 @@
+#map-m-div {
+  height: 550px;
+}
+
+#map-div {
+  height: 100%;
+  width: 50%;
+  margin-right: 100px;
+  float: left;
+}
+
+#map-info {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+#map-address{
+  font-size: 25px;
+  font-weight: 100;
+  color: black;
+  margin-bottom: 25px;
+}
+
+#map-contact {
+  font-size: 20px;
+  font-weight: 100;
+  margin-bottom: 25px;
+  color: grey;
+}
+
+#map-msg {
+  font-size: 20px;
+  font-weight: 100;
+  margin-bottom: 25px;
+  color: grey;
+}
+
+#map-openTime {
+  font-size: 20px;
+  font-weight: 100;
+  margin-bottom: 25px;
+  color: grey;
+}

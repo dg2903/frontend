@@ -1,0 +1,20 @@
+#au-m-div {
+  background-color: #252525;
+  padding-left: 20%;
+  padding-right: 20%;
+  color: white;
+  height: 420px;
+  padding-top: 100px;
+}
+
+h5 {
+  margin-bottom: 30px;
+  font-weight: bold;
+}
+
+#aboutus, #tweeter, #instagram {
+  width: 300px;
+  line-height: 2em;
+  float: left;
+  padding-right: 15px;
+}
